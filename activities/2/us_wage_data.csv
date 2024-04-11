@@ -1,0 +1,81 @@
+Sex,Race and ethnicity,Median Earnings (USD),Occupation Group
+Men,All,61199,All Groups
+Women,All,51216,All Groups
+Men,Asian,81833,All Groups
+Women,Asian,63753,All Groups
+Men,Black,50115,All Groups
+Women,Black,46516,All Groups
+Men,Hispanic,45769,All Groups
+Women,Hispanic,39481,All Groups
+Men,"White, not Hispanic",69706,All Groups
+Women,"White, not Hispanic",55315,All Groups
+Men,All,91968,"Management, business, and financial"
+Women,All,72122,"Management, business, and financial"
+Men,Asian,117409,"Management, business, and financial"
+Women,Asian,86913,"Management, business, and financial"
+Men,Black,70968,"Management, business, and financial"
+Women,Black,65553,"Management, business, and financial"
+Men,Hispanic,72367,"Management, business, and financial"
+Women,Hispanic,61569,"Management, business, and financial"
+Men,"White, not Hispanic",97643,"Management, business, and financial"
+Women,"White, not Hispanic",75287,"Management, business, and financial"
+Men,All,86379,Professional and related
+Women,All,62278,Professional and related
+Men,Asian,105022,Professional and related
+Women,Asian,90280,Professional and related
+Men,Black,71283,Professional and related
+Women,Black,57669,Professional and related
+Men,Hispanic,71282,Professional and related
+Women,Hispanic,57095,Professional and related
+Men,"White, not Hispanic",87176,Professional and related
+Women,"White, not Hispanic",62419,Professional and related
+Men,All,41052,Service
+Women,All,31728,Service
+Men,Asian,37052,Service
+Women,Asian,32191,Service
+Men,Black,35941,Service
+Women,Black,32566,Service
+Men,Hispanic,36646,Service
+Women,Hispanic,30269,Service
+Men,"White, not Hispanic",46612,Service
+Women,"White, not Hispanic",32276,Service
+Men,All,61909,Sales and related
+Women,All,40540,Sales and related
+Men,Asian,61681,Sales and related
+Women,Asian,N/A,Sales and related
+Men,Black,45109,Sales and related
+Women,Black,37164,Sales and related
+Men,Hispanic,47996,Sales and related
+Women,Hispanic,32029,Sales and related
+Men,"White, not Hispanic",71387,Sales and related
+Women,"White, not Hispanic",42418,Sales and related
+Men,All,51163,Office and admin support
+Women,All,43090,Office and admin support
+Men,Asian,57958,Office and admin support
+Women,Asian,46537,Office and admin support
+Men,Black,51121,Office and admin support
+Women,Black,41014,Office and admin support
+Men,Hispanic,42328,Office and admin support
+Women,Hispanic,40738,Office and admin support
+Men,"White, not Hispanic",55049,Office and admin support
+Women,"White, not Hispanic",45798,Office and admin support
+Men,All,49376,Nat resources and construction
+Women,All,41493,Nat resources and construction
+Men,Asian,50891,Nat resources and construction
+Women,Asian,N/A,Nat resources and construction
+Men,Black,44827,Nat resources and construction
+Women,Black,N/A,Nat resources and construction
+Men,Hispanic,40849,Nat resources and construction
+Women,Hispanic,N/A,Nat resources and construction
+Men,"White, not Hispanic",53096,Nat resources and construction
+Women,"White, not Hispanic",44142,Nat resources and construction
+Men,All,46832,Production and transportation
+Women,All,35579,Production and transportation
+Men,Asian,46379,Production and transportation
+Women,Asian,37539,Production and transportation
+Men,Black,41972,Production and transportation
+Women,Black,37121,Production and transportation
+Men,Hispanic,41716,Production and transportation
+Women,Hispanic,31969,Production and transportation
+Men,"White, not Hispanic",50581,Production and transportation
+Women,"White, not Hispanic",36483,Production and transportation
